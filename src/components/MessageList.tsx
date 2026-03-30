@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { Table, Tag, Typography, Card, Space, Avatar, Input, Select } from 'antd';
-import { MessageOutlined, FileTextOutlined, PictureOutlined, SearchOutlined, UsergroupAddOutlined } from '@ant-design/icons';
+import { Table, Tag, Typography, Card, Space, Avatar, Input } from 'antd';
+import { MessageOutlined, FileTextOutlined, PictureOutlined, SearchOutlined } from '@ant-design/icons';
 
 const { Text } = Typography;
 
